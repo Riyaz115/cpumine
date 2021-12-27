@@ -1,1 +1,1 @@
-# cpu-mine.sh
+# cpumine.sh
